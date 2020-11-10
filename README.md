@@ -37,10 +37,4 @@ python pt_restore.py  （训练顺序不分先后）
 python pt_adjust.py   （训练顺序不分先后）
 ```
 
-### 数据集
-- 数据集保存在`./dataset`
-- `./dataset/our485`为训练数据
-- `./dataset/eval15`为测试数据
 
-### 论文
-- `./1905.04161.pdf`
