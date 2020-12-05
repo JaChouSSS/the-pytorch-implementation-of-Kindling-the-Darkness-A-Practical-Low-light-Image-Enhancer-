@@ -2,7 +2,7 @@
 
 
 ### 说明
-- Kindling the Darkness:A Practical Low-light Image Enhancer
+Kindling the Darkness:A Practical Low-light Image Enhancer
 - pytorch 复现
 - 源代码地址：[https://github.com/zhangyhuaee/KinD](https://github.com/zhangyhuaee/KinD).
 
