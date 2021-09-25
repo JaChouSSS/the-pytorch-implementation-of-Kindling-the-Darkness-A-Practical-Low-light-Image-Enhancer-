@@ -37,6 +37,8 @@ python pt_restore.py
 python pt_adjust.py   
 ```
 ### The results of Decom and Adjust
-
+- (The result changes with the number of iterations!!!)
+![image](./examples/1.png)
+![image](./examples/780.png)
 
 
